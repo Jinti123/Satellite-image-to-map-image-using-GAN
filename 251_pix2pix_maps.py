@@ -1,4 +1,4 @@
-# https://youtu.be/6pUSZgPJ3Yg
+
 """
 Satellite image to maps image translation ​using Pix2Pix GAN
  
