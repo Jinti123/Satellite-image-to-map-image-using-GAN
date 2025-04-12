@@ -39,7 +39,8 @@ We use the **Maps dataset** provided by the authors of the pix2pix paper, which 
 - **More Datasets:** [pix2pix datasets](http://efrosgans.eecs.berkeley.edu/pix2pix/datasets/)
 
 ## Research Paper Implemented in this project : 
-**Original pix2pix paper:** https://arxiv.org/pdf/1611.07004.pdf
+**Original pix2pix paper: https://arxiv.org/pdf/1611.07004.pdf**
+
 **Github for the original paper:** https://phillipi.github.io/pix2pix/
 
 
